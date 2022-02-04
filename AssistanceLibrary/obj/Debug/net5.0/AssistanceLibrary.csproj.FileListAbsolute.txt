@@ -1,0 +1,12 @@
+C:\Users\meles\Desktop\AssistanceLibrary\AssistanceLibrary\bin\Debug\net5.0\AssistanceLibrary.deps.json
+C:\Users\meles\Desktop\AssistanceLibrary\AssistanceLibrary\bin\Debug\net5.0\AssistanceLibrary.dll
+C:\Users\meles\Desktop\AssistanceLibrary\AssistanceLibrary\bin\Debug\net5.0\ref\AssistanceLibrary.dll
+C:\Users\meles\Desktop\AssistanceLibrary\AssistanceLibrary\bin\Debug\net5.0\AssistanceLibrary.pdb
+C:\Users\meles\Desktop\AssistanceLibrary\AssistanceLibrary\obj\Debug\net5.0\AssistanceLibrary.csproj.AssemblyReference.cache
+C:\Users\meles\Desktop\AssistanceLibrary\AssistanceLibrary\obj\Debug\net5.0\AssistanceLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meles\Desktop\AssistanceLibrary\AssistanceLibrary\obj\Debug\net5.0\AssistanceLibrary.AssemblyInfoInputs.cache
+C:\Users\meles\Desktop\AssistanceLibrary\AssistanceLibrary\obj\Debug\net5.0\AssistanceLibrary.AssemblyInfo.cs
+C:\Users\meles\Desktop\AssistanceLibrary\AssistanceLibrary\obj\Debug\net5.0\AssistanceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\meles\Desktop\AssistanceLibrary\AssistanceLibrary\obj\Debug\net5.0\AssistanceLibrary.dll
+C:\Users\meles\Desktop\AssistanceLibrary\AssistanceLibrary\obj\Debug\net5.0\ref\AssistanceLibrary.dll
+C:\Users\meles\Desktop\AssistanceLibrary\AssistanceLibrary\obj\Debug\net5.0\AssistanceLibrary.pdb
