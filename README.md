@@ -4,7 +4,7 @@
 AssistanceLibrary - is a library to help beginners write code without delving into certain points of development, for example: searching or writing a json file, the same with a txt document.
 This library, in theory, is somewhat similar to the System.Linq, but you can download and rewrite this. It's not full version of program, but i try to update this. 
 
-## Right now this application have:
+## _Right now this application have↘️
 - 5 classes with 2 or more methods: 
 ArrayHelper, DictionaryHelper, ListHelper, WriteAndReadFile. I won't tell name of method here, you can read this information ahead;
 - All methods do functional without errors, if this not a syntax error from your side;
