@@ -11,7 +11,7 @@ ArrayHelper, DictionaryHelper, ListHelper, WriteAndReadFile. I won't tell name o
 - Error handlers are not written, so errors will be highlighted as standard.
 I tried to check this code, so that it does not break.
 
-## _If you want use this code you must:_
+## _If you want use this code you must:__
 - In main page repository click button with name "Code" and "Download ZIP". Wait for it to load;
 -  After load you must unzip this program;
 - Open your project in Visual Studio and in the solution explorer right mouse button click at "Dependencies" or what you see under the project name;
