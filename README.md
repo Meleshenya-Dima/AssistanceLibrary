@@ -11,7 +11,7 @@ ArrayHelper, DictionaryHelper, ListHelper, WriteAndReadFile. I won't tell name o
 - Error handlers are not written, so errors will be highlighted as standard.
 I tried to check this code, so that it does not break.
 
-## _If you want use this code you must:__
+## _If you want use this code you must:_
 - In main page repository click button with name "Code" and "Download ZIP". Wait for it to load;
 -  After load you must unzip this program;
 - Open your project in Visual Studio and in the solution explorer right mouse button click at "Dependencies" or what you see under the project name;
@@ -31,7 +31,7 @@ I tried to check this code, so that it does not break.
 | ArrayHelper | Append(T[], T) : T[] Append(T[], T[]) : T[] Append(T[], int, T) : T[]  TakeElement(T[], int, int) : T[]  TakeElement(T[], params int[]) : T[] |
 | DictionaryHelper | CreateDictionary(K[], V[]) : Dictionary(K[], V[]) AddToDictionary(Dictionary<K, V>,K[], V[]) : Dictionary(K[], V[]) AddToDictionary(Dictionary<K, V>, Dictionary<K,V>) |
 | ListHelper | TakeElement(List<T>, params int[]) : List<T> TakeElement(List<T>,int, int) : List<T> Append(List<T>, int, T) : List<T>|
-| WriterAndReadFiles | 4.1 ReadTextFile(string) : string  ReadTextFile(string) : List<T> WriteToTextFile(string, bool, T[]) : void WriteToTextFile(string, bool, T) : void  WriteToTextFile(string, bool, T[,]) : void WriteToTextFile(string, bool, List<T>) : void CreateJsonFile(string, List<T>) : void CreateJsonFile(string, T[]) : void CreateJsonFile(string, T) : void |
+| WriterAndReadFiles | ReadTextFile(string) : string  ReadTextFile(string) : List<T> WriteToTextFile(string, bool, T[]) : void WriteToTextFile(string, bool, T) : void  WriteToTextFile(string, bool, T[,]) : void WriteToTextFile(string, bool, List<T>) : void CreateJsonFile(string, List<T>) : void CreateJsonFile(string, T[]) : void CreateJsonFile(string, T) : void |
 | SortingMethods: | BubbleSort(T[]) : T[] HoareSort(T[], int, int) |
 
 ## Good luck!
